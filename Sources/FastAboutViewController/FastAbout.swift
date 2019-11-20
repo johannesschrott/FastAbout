@@ -1,3 +1,3 @@
-struct FastAbout {
+struct FastAboutViewController {
     var text = "Hello, World!"
 }
