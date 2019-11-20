@@ -1,2 +1,3 @@
 # FastAbout
-A Swift package that lets you easily create an about ViewController
+
+A description of this package.
