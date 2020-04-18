@@ -2,7 +2,7 @@
 
 import SwiftUI
 
-struct FastAboutView: View {
+public struct FastAboutView: View {
     var body: some View {
         
         List {
