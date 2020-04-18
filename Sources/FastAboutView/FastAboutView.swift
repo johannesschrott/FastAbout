@@ -3,7 +3,7 @@
 import SwiftUI
 
 public struct FastAboutView: View {
-    var body: some View {
+    public var body: some View {
         
         List {
             Text("Test")
