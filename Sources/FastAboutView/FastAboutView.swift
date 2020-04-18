@@ -3,6 +3,8 @@
 import SwiftUI
 
 public struct FastAboutView: View {
+    public init() {}
+    
     public var body: some View {
         
         List {
