@@ -1,6 +1,5 @@
 ![Swift](https://github.com/johannesschrott/FastAbout/workflows/Swift/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+![License](https://img.shields.io/github/license/johannesschrott/fastabout?label=License)
 # FastAbout
 
 FastAbout is a Swift Package which provides you an easy to use and customizable view for displaying "About that app" informations in an SwiftUI based iOS app.
