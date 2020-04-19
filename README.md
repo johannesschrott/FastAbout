@@ -6,10 +6,10 @@ FastAbout is a Swift Package which provides you an easy to use and customizable 
 
 
 This package can easily be integrated in your project, using Swift Package Manager. 
-After that, simply import the 'FastAbout' module in your file and add a 'FastAboutView'.
+After that, simply import the `FastAbout` module in your file and add a `FastAboutView`.
 
-Customize it  using the following variables:
+Customize it through setting the following variables of the `FastAboutView`:
 
-* 'copyright' A string that displayes your copyright information at the top of the about view
+* `copyright` A string that displayes your copyright information at the top of the about view
 
-Since the project has not reached version 1.0 at the moment, please expect that is partly incomplete or breaking changes may occur.
+Since the project **has not reached version 1.0** at the moment, please expect that is **partly incomplete** or breaking changes may occur.
