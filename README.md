@@ -1,4 +1,5 @@
 ![Swift](https://github.com/johannesschrott/FastAbout/workflows/Swift/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # FastAbout
 
