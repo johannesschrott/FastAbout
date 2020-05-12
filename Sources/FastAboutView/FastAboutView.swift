@@ -6,6 +6,9 @@ public struct FastAboutView: View {
     public init() {}
     
     public var copyright: String?;
+    public var website: String?;
+    public var privacy: String?;
+
     
     public var body: some View {
         
@@ -13,6 +16,12 @@ public struct FastAboutView: View {
             Section() {
                 if (copyright != nil) {
                     Text(copyright)
+                }
+                if (privacy != nil) {
+                    Text(privacy)
+                }
+                if (website != nil) {
+                    Text(website)
                 }
             }
         }.listStyle(GroupedListStyle())
