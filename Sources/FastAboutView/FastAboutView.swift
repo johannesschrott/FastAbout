@@ -5,9 +5,9 @@ import SwiftUI
 public struct FastAboutView: View {
     public init() {}
     
-    public var copyright: String?;
-    public var website: String?;
-    public var privacy: String?;
+    public var copyright: String;
+    public var website: String;
+    public var privacy: String;
 
     
     public var body: some View {
