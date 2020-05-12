@@ -3,7 +3,11 @@
 import SwiftUI
 
 public struct FastAboutView: View {
-    public init() {}
+    public init(copyright: String, website: String, privacy: String) {
+        self.copyright = copyright
+        self.website = website
+        self.privacy = privacy
+    }
     
     public var copyright: String;
     public var website: String;
@@ -14,13 +18,13 @@ public struct FastAboutView: View {
         
         List {
             Section() {
-                if (copyright != nil) {
+                if (copyright != "") {
                     Text(copyright)
                 }
-                if (privacy != nil) {
+                if (privacy != "") {
                     Text(privacy)
                 }
-                if (website != nil) {
+                if (website != "") {
                     Text(website)
                 }
             }
